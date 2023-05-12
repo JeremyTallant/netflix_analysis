@@ -21,7 +21,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 3. **A visual inspection of our data:** Create a Line Plot
 4. **Loading the rest of the data from a CSV:** Create another DataFrame
 5. **Filtering for movies!:** Subset the netflix_df DataFrame
-6. **Creating a scatter plot:**
+6. **Creating a scatter plot:** 
 7. **Digging deeper:**
 8. **Marking non-feature films:**
 9. **Plotting with color!:**
