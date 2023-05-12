@@ -17,7 +17,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents 
 1. **Loading your friend's data into a dictionary:** Use our friend's data to create a dictionary.
-2. **Creating a DataFrame from a dictionary:**
+2. **Creating a DataFrame from a dictionary:** Create a DataFrame
 3. **A visual inspection of our data:**
 4. **Loading the rest of the data from a CSV:**
 5. **Filtering for movies!:**
